@@ -1,0 +1,16 @@
+// Example program
+#include <iostream>
+#include <string>
+
+int main()
+{
+  int numer1;
+  int numer2;
+  std::cout << "primer numero" << std::endl;
+  std::cin >> numer1;
+  std::cout << "segundo numero" << std::endl;
+  std::cin >> numer2;
+  x=(numer1>numer2) ? (numer1):(numer2);
+  std::cout << "el mayor es: " << x <<std::endl;
+  return 0;
+}
