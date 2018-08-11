@@ -14,3 +14,5 @@ int main()
   std::cout << "el mayor es: " << x <<std::endl;
   return 0;
 }
+
+ ya esta modificado
